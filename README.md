@@ -1,1 +1,1 @@
-# lecture_3_Django
+# Lecture 3 Django
